@@ -24,4 +24,4 @@ https://github.com/anushagarg2929/to-do-list-app/blob/master/app/src/main/java/c
 https://github.com/anushagarg2929/to-do-list-app/tree/master/app/src/main/res/xml
 ## New things I learnt
 
-List feautres implementation and horizontal layout.
+List feautres implementation and linear layout.
